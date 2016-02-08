@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/glu/glu/packages/org.linkedin.glu.console-server-5.6.1/glu/repository/exploded-wars/org.linkedin.glu.console-webapp-5.6.1/WEB-INF/WEB-INF.iml" filepath="$PROJECT_DIR$/glu/glu/packages/org.linkedin.glu.console-server-5.6.1/glu/repository/exploded-wars/org.linkedin.glu.console-webapp-5.6.1/WEB-INF/WEB-INF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cassandra/cassandra.iml" filepath="$PROJECT_DIR$/cassandra/cassandra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/docker.iml" filepath="$PROJECT_DIR$/docker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/glu/glu/models/models.iml" filepath="$PROJECT_DIR$/glu/glu/models/models.iml" />
+      <module fileurl="file://$PROJECT_DIR$/glu/glu/packages/org.linkedin.glu.console-server-5.6.1/glu/repository/repository.iml" filepath="$PROJECT_DIR$/glu/glu/packages/org.linkedin.glu.console-server-5.6.1/glu/repository/repository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/glu/glu/packages/org.linkedin.glu.console-server-5.6.1/glu/repository/scripts/scripts.iml" filepath="$PROJECT_DIR$/glu/glu/packages/org.linkedin.glu.console-server-5.6.1/glu/repository/scripts/scripts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/glu/glu/packages/org.linkedin.glu.console-server-5.6.1/glu/repository/exploded-wars/org.linkedin.glu.console-webapp-5.6.1/WEB-INF/templates/templates.iml" filepath="$PROJECT_DIR$/glu/glu/packages/org.linkedin.glu.console-server-5.6.1/glu/repository/exploded-wars/org.linkedin.glu.console-webapp-5.6.1/WEB-INF/templates/templates.iml" />
+    </modules>
+  </component>
+</project>
